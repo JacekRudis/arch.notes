@@ -1,6 +1,3 @@
-# JavaHiddenGems
-Make sure to start the Docker-webserver-cache container before running the OWASP dependency check or the Old GroupIds Alerter.
-
 ## Apache PDFBox
 Create and change PDF files or extract content from PDF files
 https://pdfbox.apache.org/
